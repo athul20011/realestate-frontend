@@ -1,0 +1,24 @@
+@import "./breakpoints.scss";
+@import "./variables.scss";
+
+
+.title-list {
+  margin: 40px 100px;
+}
+
+.list {
+  padding: 0 100px 120px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 25px;  
+}
+.trip1{
+  background-image: url('https://th.bing.com/th/id/OIP.6e_jYoPVwIbgKudlHqotegHaHZ?w=480&h=479&rs=1&pid=ImgDetMain');
+background-size: cover;
+padding: 50px;
+}
+.reservation{
+  background-image: url('https://eskipaper.com/images/blur-background-1.jpg');
+
+}
